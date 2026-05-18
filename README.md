@@ -9,4 +9,17 @@ A simple Python game where the player tries to guess a random number between 1 a
 
 ## How to run
 
-Make sure you have Python installed, then run:
+Make sure you have Python installed, then run Py file in repo.
+
+
+## Example
+Enter Number: 5
+Try Again
+Enter Number: 8
+Correct!
+
+
+## What I learned 🚀
+- Loops in Python
+- Random number generation
+- User input handling
